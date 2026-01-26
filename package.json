@@ -1,6 +1,6 @@
 {
   "name": "meminal",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "meme on the terminal",
   "main": "index.js",
   "license": "MIT",
