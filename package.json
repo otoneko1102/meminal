@@ -1,11 +1,12 @@
 {
   "name": "meminal",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "meme on the terminal",
   "main": "index.js",
   "license": "MIT",
+  "keywords": ["meme", "CLI", "tool"],
   "bin": {
-    "memecli": "./dist/index.js"
+    "meminal": "./dist/index.js"
   },
   "scripts": {
     "start": "ts-node index.ts",

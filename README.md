@@ -20,7 +20,7 @@ Want to add a new meme animation?
 <br />
 Please send lots of pull requests!
 
-# meminal - ターミナル上で動作するミーム
+# meminal - ターミナル上で動くミーム
 
 ## インストール
 
@@ -28,7 +28,7 @@ Please send lots of pull requests!
 npm -g meminal
 ```
 
-## 使用
+## 使い方
 
 ```bash
 meminal <animation>
@@ -36,8 +36,8 @@ meminal <animation>
 meminal rick
 ```
 
-新たなミームを追加したいですか？
+新しいミームを追加したいですか？
 <br />
-全然問題ありません！
+ぜんぜん問題ありません！
 <br />
 たくさんプルリクエスト送って下さい！
