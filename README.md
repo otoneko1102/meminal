@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-npm -g meminal
+npm install -g meminal
 ```
 
 ## Usage
@@ -25,7 +25,7 @@ Please send lots of pull requests!
 ## インストール
 
 ```bash
-npm -g meminal
+npm install -g meminal
 ```
 
 ## 使い方
